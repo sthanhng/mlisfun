@@ -1,1 +1,6 @@
-Machine Learning is Fun!
+# Machine Learning is Fun!
+
+## Getting Started
+
+## References
+
